@@ -1,0 +1,9 @@
+Things to do 
+
+Hooks. 
+
+
+
+Notes
+
+on state change the component re-renders
